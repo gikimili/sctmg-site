@@ -1,0 +1,24 @@
+# SC TMG IA Compagnon
+
+> Unofficial, fan-made companion app for the tabletop game "StarCraft: The Miniatures Game" (Archon Studio, under licence from Blizzard Entertainment). Not affiliated with, endorsed by or sponsored by Blizzard Entertainment or Archon Studio. Free, offline, no account, no ads, no data collection.
+
+The app tracks a game (Rounds, Phases, activations, Supply, Victory Points, Mission Markers), resolves attacks with the printed rules (Attack Pool, Surge, Armour, Evade, damage reductions, casualties), draws the table (36×36" and 54×36"), and offers a built-in rule-based opponent with four levels (Initiation, Beginner, Intermediate, Expert). "IA" in the name refers to that built-in bot and to an optional copy-paste export of the game state for an external AI assistant; the app itself never connects to any service.
+
+Languages: English, French, Spanish, German. Platforms: web app (PWA, works offline), iOS and Android shells.
+
+## Pages
+
+- [Web app](https://sctmg-iacompagnon.com/): the companion itself, playable in the browser, installable as a PWA.
+- [Apps](https://sctmg-iacompagnon.com/apps/): availability of the iOS and Android versions.
+- [App Store](https://apps.apple.com/app/id6809428019): the iOS app for iPhone and iPad (free).
+- [Support](https://sctmg-iacompagnon.com/support/): how to report a rules question, a bug or an idea (e-mail only).
+- [Privacy policy](https://sctmg-iacompagnon.com/privacy/): no data collected; feedback is sent through the user's own mail client.
+- [Terms of use](https://sctmg-iacompagnon.com/terms/): disclaimer, trademark notice.
+
+## Start here
+
+- [Web app home](https://sctmg-iacompagnon.com/#/home): start a game, help, settings.
+
+## Trademarks
+
+StarCraft is a trademark of Blizzard Entertainment, Inc. StarCraft: The Miniatures Game is published by Archon Studio. Card text and images shown by the app belong to their rights holders and are used for interoperability with the physical game only; they are removed on request.
