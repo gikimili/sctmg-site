@@ -1,0 +1,8 @@
+# SC TMG IA Compagnon — unofficial fan-made companion app for StarCraft: The Miniatures Game.
+# Everything public may be indexed. Card scans stay out of search results (they belong to their rights holders).
+User-agent: *
+Allow: /
+Disallow: /cards/
+Disallow: /terrain/
+
+Sitemap: https://sctmg-iacompagnon.com/sitemap.xml
